@@ -1,5 +1,5 @@
 <h1 align="center">Hey All 👋👋. Myself Adinath Ajith Naik</h1>
-<h3 align="center">I am a passionate in coding and have keen interest in Cyber Security.</h3>
+<h3 align="center">I have a passion for coding and have keen interest in Cyber Security.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adinath-ajith-naik&label=Profile%20views&color=0e75b6&style=flat" alt="adinath-ajith-naik" /> </p>
 
