@@ -1,17 +1,23 @@
-<h1 align="center">Hey All 👋👋. Myself Adinath Ajith Naik</h1>
-<h3 align="center">I have a passion for coding and have keen interest in Cyber Security.</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=adinath-ajith-naik&label=Profile%20views&color=0e75b6&style=flat" alt="adinath-ajith-naik" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adinath-ajith-naik&label=Profile%20views&color=0e75b6&style=flat" alt="adinath-ajith-naik" /> </p>
+<h1 align="center">Hey All. Myself Adinath Ajith Naik</h1>
+<h4 align="center">I am passionate in coding and have keen interest in Cyber Security.</h4>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adinath-ajith-naik" alt="adinath-ajith-naik" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript**
 
+- 🤝 I have a knowledge on **Front End Development ( HTML and CSS), C Language and SQL.**
+
+- 📌I am planning to learn **MERN Stack and Cyber Security.**
+
 - 📫 How to reach me **naik.adi2001@gmail.com**
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adinath-ajith-naik" alt="adinath-ajith-naik" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/adinath-ajith-naik-5a0a80195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adinath-ajith-naik" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adinath-ajith-naik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adinath-ajith-naik" height="30" width="40" /></a>
 <a href="https://instagram.com/adinath_naik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adinath_naik" height="30" width="40" /></a>
 </p>
 
